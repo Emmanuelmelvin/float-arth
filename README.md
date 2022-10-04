@@ -1,7 +1,6 @@
 # float-art
-allow float to perform arithmetical operation of multiplication and addition without returning multiple decimals.
-# float-art
 A beautiful method to perform float arithemtics
+It allow float to perform arithmetical operation of multiplication and addition without returning multiple decimals.
 # Installation 
 ```ja
 $npm install float-art
